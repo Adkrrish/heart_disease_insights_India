@@ -66,7 +66,7 @@ Welcome to this dynamic **Power BI dashboard** crafted to analyze heart disease 
 
 ## 🤝 Connect with Me
 
-Questions, feedback, or collaboration inquiries? Feel free to open an issue or connect with me on **[LinkedIn]([https://www.linkedin.com/in/adhikarykrishnendu/])**.
+Questions, feedback, or collaboration inquiries? Feel free to open an issue or connect with me on **([https://www.linkedin.com/in/adhikarykrishnendu/])**.
 
 ---
 
