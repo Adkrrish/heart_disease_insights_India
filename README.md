@@ -1,6 +1,6 @@
 # 💓 Heart Disease Dashboard (Indian Context) 💓
 
-![Dashboard Snapshot](Screenshot-2025-09-17-215410.jpg)
+![Dashboard Snapshot](Screenshot-2025-09-17-215410.png)
 
 ---
 
